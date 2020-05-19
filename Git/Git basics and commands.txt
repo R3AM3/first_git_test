@@ -1,0 +1,46 @@
+ *BASICS*
+
+
+
+Touch - create a new file
+
+Touch.readme.md
+
+Vim readme.md
+
+Git status
+
+Git init
+
+Git add readme.md
+
+BASICS
+
+
+
+Git commit -m "first commit"
+
+Git add -A
+
+Git log
+
+Git checkout first 035e986 (7 digits)
+
+Ls
+
+Git branch
+
+Git checkout -b readme-one-line
+
+Git branch
+
+Git checkout master
+--------------------------------------------------------------------------------------------------------------------------
+
+Git remote -v ( check for remote repository)
+Git remote add origin <ssh key>
+
+
+Git pull origin master --allow-unrelated-histories ( pull - fetches and merges it )
+
+Git push origin master
